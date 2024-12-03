@@ -12,6 +12,8 @@ it can do the basic operations
 
 -Division
 
+-Multiply
+
 -clear
 
 #### calculator image :
