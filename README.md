@@ -4,7 +4,6 @@ calculator with C# windows form
 
 it can do the basic operations
 
--Multiply
 
 -Add
 
