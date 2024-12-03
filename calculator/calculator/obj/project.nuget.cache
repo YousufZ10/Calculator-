@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SYRGXcIrDIxPWpnC6la5apdA43z9nqiSX11vF86VSw/9d2ZWWBfQdVvCXPhBOBxkA+bUCwfIRSJcv+b1gKGXqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\el msria\\Desktop\\MyBookshop\\calculator\\calculator\\calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\el msria\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.4\\guna.ui2.winforms.2.0.4.4.nupkg.sha512",
+    "C:\\Users\\el msria\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\el msria\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
